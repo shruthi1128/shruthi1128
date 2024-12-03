@@ -8,7 +8,7 @@ Turning raw data into actionable stories, crafting clean code, and exploring the
 - 📫 Reach me at: **shruthi2811@outlook.com**
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shruthi-r-a140002a4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shruthi-r-a140002a4/)
 
 ## Languages and Tools:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
