@@ -1,9 +1,10 @@
 # Hi 👋, I'm Shruthi R
 
 Software Developer | Data Science Enthusiast 
+
 Turning raw data into actionable stories, crafting clean code, and exploring the synergy between tech and creativity.
 
-- 🔭 I’m currently working on **[AI Project]**
+- 🔭 I’m currently working on **AI Project**
 - 📫 Reach me at: **shruthi2811@outlook.com**
 
 ## Connect with me:
